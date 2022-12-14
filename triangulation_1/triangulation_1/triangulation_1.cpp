@@ -79,7 +79,7 @@ int main()
 {
 	double a = 0.0, b = 3.0, c, d;
 	int k = 0, h = 0;
-	for (double i = 0; i <= n; i++)
+	for (double i = 0; i <= n; i++) // Нахождение необходимых значений
 	{
 
 		for (double j = 0; j <= m; j++)
@@ -109,7 +109,7 @@ int main()
 		}
 	}
 	double S = 0;
-	for (k = 0; k < N; k++)
+	for (k = 0; k < N; k++) // Функция вычисления площади
 	{
 		S = S + (0.5 * abs((X[T[k][1]] - X[T[k][0]]) * (Y[T[k][2]] - Y[T[k][0]]) - (X[T[k][2]] - X[T[k][0]]) * (Y[T[k][1]] - Y[T[k][0]])));
 	}

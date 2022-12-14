@@ -1,0 +1,5 @@
+﻿  triangulation_5.cpp
+C:\Users\DNS\Dropbox\Мой ПК (LAPTOP-LA6C24S9)\Desktop\Тиангуляция\triangulation_2022\triangulation_5\triangulation_5\triangulation_5.cpp(61,38): warning C4101: tau: неиспользованная локальная переменная
+C:\Users\DNS\Dropbox\Мой ПК (LAPTOP-LA6C24S9)\Desktop\Тиангуляция\triangulation_2022\triangulation_5\triangulation_5\triangulation_5.cpp(61,35): warning C4101: s: неиспользованная локальная переменная
+C:\Users\DNS\Dropbox\Мой ПК (LAPTOP-LA6C24S9)\Desktop\Тиангуляция\triangulation_2022\triangulation_5\triangulation_5\triangulation_5.cpp(61,43): warning C4101: rho: неиспользованная локальная переменная
+  triangulation_5.vcxproj -> C:\Users\DNS\Dropbox\Мой ПК (LAPTOP-LA6C24S9)\Desktop\Тиангуляция\triangulation_2022\triangulation_5\Debug\triangulation_5.exe

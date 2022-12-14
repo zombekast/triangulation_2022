@@ -1,0 +1,5 @@
+﻿  triangulation_3.cpp
+C:\Users\DNS\Dropbox\Мой ПК (LAPTOP-LA6C24S9)\Desktop\Тиангуляция\triangulation_2022\triangulation_3\triangulation_3\triangulation_3.cpp(64,48): warning C4101: theta: неиспользованная локальная переменная
+C:\Users\DNS\Dropbox\Мой ПК (LAPTOP-LA6C24S9)\Desktop\Тиангуляция\triangulation_2022\triangulation_3\triangulation_3\triangulation_3.cpp(64,35): warning C4101: s: неиспользованная локальная переменная
+C:\Users\DNS\Dropbox\Мой ПК (LAPTOP-LA6C24S9)\Desktop\Тиангуляция\triangulation_2022\triangulation_3\triangulation_3\triangulation_3.cpp(64,43): warning C4101: rho: неиспользованная локальная переменная
+  triangulation_3.vcxproj -> C:\Users\DNS\Dropbox\Мой ПК (LAPTOP-LA6C24S9)\Desktop\Тиангуляция\triangulation_2022\triangulation_3\Debug\triangulation_3.exe
